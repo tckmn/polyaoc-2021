@@ -2,7 +2,8 @@ all years:
 [polyaoc-2019](https://github.com/tckmn/polyaoc-2019),
 [polyaoc-2020](https://github.com/tckmn/polyaoc-2020),
 [polyaoc-2021](https://github.com/tckmn/polyaoc-2021),
-[polyaoc-2023](https://github.com/tckmn/polyaoc-2023)
+[polyaoc-2023](https://github.com/tckmn/polyaoc-2023),
+[polyaoc-2024](https://github.com/tckmn/polyaoc-2024)
 
 i'm absurdly busy this year so no promises about this one
 
